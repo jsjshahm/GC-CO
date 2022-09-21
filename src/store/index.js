@@ -1,4 +1,4 @@
-import AStore from './storeContainer/AStore';
+import AStore from './AStore';
 
 class RootStore {
   constructor() {
